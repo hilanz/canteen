@@ -1,0 +1,9 @@
+.container-xs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.form-login{
+    max-width: 520px;
+}
