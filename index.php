@@ -72,7 +72,7 @@
         <button type="button" class="btn btn-danger me-3"><a href="logout.php" class="text-white">Logout</a></button>
         <a
           class="btn btn-dark px-3"
-          href="https://github.com/mdbootstrap/mdb-ui-kit"
+          href="https://github.com/hilanz/canteen"
           role="button"
           ><i class="fab fa-github"></i
         ></a>
